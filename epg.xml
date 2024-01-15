@@ -2348,28 +2348,14 @@
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240115190000 +0800" stop="20240115191500 +0800" channel="SukanRTM.my">
-		<title lang="en">Lima-Lima Bersama Aziz Kota</title>
-		<desc lang="en">Program sembang santai bersama pengamal sukan, jurulatih sukan, atlet dan bekas atlet negara untuk mencungkil kisah dan pengalaman yang belum pihak media war-warkan serta penglibatan awal serta harapan masa hadapan.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240115191500 +0800" stop="20240115193000 +0800" channel="SukanRTM.my">
-		<title lang="en">Kapsul Sukan / PSA</title>
-		<desc lang="en">Memaparkan Info Terkini, Motivasi Inspirasi, Gym, Aksi Rekreasi, Pinggan Diet, i-Sukan dan Inovasi Prestasi.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240115193000 +0800" stop="20240115200000 +0800" channel="SukanRTM.my">
+	<programme start="20240115190000 +0800" stop="20240115193000 +0800" channel="SukanRTM.my">
 		<title lang="en">Sports Max 2023</title>
 		<desc lang="en">Saksikan rangkuman pelbagai aksi sukan dan perlawanan dari luar negara</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240115200000 +0800" stop="20240116010000 +0800" channel="SukanRTM.my">
+	<programme start="20240115193000 +0800" stop="20240116010000 +0800" channel="SukanRTM.my">
 		<title lang="en">Kejohanan Badminton Petronas Terbuka Malaysia 2024 (Ulangan)</title>
 		<desc lang="en">Saksikan kembali Kejohanan Badminton Petronas Terbuka Malaysia 2024 - Final</desc>
 		<episode/>
@@ -6924,8 +6910,8 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
 		<rating/>
 	</programme>
 	<programme start="20240115140100 +0800" stop="20240115143000 +0800" channel="AstroAwani.my">
-		<title lang="en">No information available</title>
-		<desc lang="en">No information available</desc>
+		<title lang="en">Niaga AWANI</title>
+		<desc lang="en">Berita niaga dan ekonomi dalam dan luar negara serta analisis dan temubual bersama tokoh perniagaan</desc>
 		<episode/>
 		<category/>
 		<rating/>
@@ -7784,23 +7770,23 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240115160000 +0800" stop="20240115161500 +0800" channel="TVS.my">
-		<title lang="en">Adventure of the Lens Ep04</title>
-		<desc lang="en">What does it take to capture the perfect shot in the wild? Every episode of Kembara Kanta,take an intimate journey with our local wildlife photographers as they search for their own perfect wildlife photo</desc>
+	<programme start="20240115160000 +0800" stop="20240115165500 +0800" channel="TVS.my">
+		<title lang="en">Warung Muhibbah Ep02</title>
+		<desc lang="en">Sebuah sitkom yang berkisar di sebuah warung di kawasan perumahan Muhibbah yang terdiri daripada pelbagai lapisan masyarakat, kaum dan budaya.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240115161500 +0800" stop="20240115163000 +0800" channel="TVS.my">
-		<title lang="en">Borneo From Above Ep16</title>
-		<desc lang="en">To promote and highlighting development of Sarawak</desc>
+	<programme start="20240115165500 +0800" stop="20240115173000 +0800" channel="TVS.my">
+		<title lang="en">(L) Berita TVS@4:55</title>
+		<desc lang="en">Berita TVS membawakan berita yang menyeluruh dan padat dengan perspektif yang lebihmenyegarkan.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240115163000 +0800" stop="20240115180000 +0800" channel="TVS.my">
-		<title lang="en">(L) Majlis Perasmian SUKSAR</title>
-		<desc lang="en">Majlis Perasmian Sukan Sarawak III 2023 yang akan berlangsung di Sibu, Sarawak</desc>
+	<programme start="20240115173000 +0800" stop="20240115180000 +0800" channel="TVS.my">
+		<title lang="en">Ride Your Story Ep02</title>
+		<desc lang="en">Docu-series to show case a different aspect of Borneo from the back of a bike, ridden by 3 biker chicks. There will be real encounters with bad weather, mechanical breakdowns and difficult terrains.</desc>
 		<episode/>
 		<category/>
 		<rating/>
@@ -7912,7 +7898,7 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
 	</programme>
 	<programme start="20240116013000 +0800" stop="20240116020000 +0800" channel="TVS.my">
 		<title lang="en">Kubah Borneo Ep03</title>
-		<desc lang="en">"Kubah Borneo" will bring viewers a closer look of mosques located at several districts in Borneo Island. The host will visit a mosque at a different location to learn and share the history of the mosque.</desc>
+		<desc lang="en">'Kubah Borneo' will bring viewers a closer look of mosques located at several districts in Borneo Island. The host will visit a mosque at a different location to learn and share the history of the mosque.</desc>
 		<episode/>
 		<category/>
 		<rating/>
@@ -8024,7 +8010,7 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
 	</programme>
 	<programme start="20240116101500 +0800" stop="20240116104500 +0800" channel="TVS.my">
 		<title lang="en">Khemah Kita Bah Ep09</title>
-		<desc lang="en">Program ini dianggap sebagai "camping for dummies",hos dan rakannya memberi dan menunjukkan tip-tip asas berkhemah,larangan dan langkah-langkah perlu diambil serta pendekatan memasak "outdoor" yang ringkas</desc>
+		<desc lang="en">Program ini dianggap sebagai 'camping for dummies',hos dan rakannya memberi dan menunjukkan tip-tip asas berkhemah,larangan dan langkah-langkah perlu diambil serta pendekatan memasak 'outdoor' yang ringkas</desc>
 		<episode/>
 		<category/>
 		<rating/>
@@ -8129,7 +8115,7 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
 	</programme>
 	<programme start="20240116173000 +0800" stop="20240116180000 +0800" channel="TVS.my">
 		<title lang="en">Kubah Borneo Ep03</title>
-		<desc lang="en">"Kubah Borneo" will bring viewers a closer look of mosques located at several districts in Borneo Island. The host will visit a mosque at a different location to learn and share the history of the mosque.</desc>
+		<desc lang="en">'Kubah Borneo' will bring viewers a closer look of mosques located at several districts in Borneo Island. The host will visit a mosque at a different location to learn and share the history of the mosque.</desc>
 		<episode/>
 		<category/>
 		<rating/>
