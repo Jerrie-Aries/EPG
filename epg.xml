@@ -80,6 +80,10 @@
 		<display-name lang="en">TRT World</display-name>
 		<icon src="https://static.visionplus.id/images/channel/7ba5f80e/23ac.png"/>
 	</channel>
+	<channel id="RT.ru">
+		<display-name lang="en">RT English</display-name>
+		<icon src="https://static.visionplus.id/images/channel/2ed8b52a/f823.png"/>
+	</channel>
 	<programme start="20240116000000 +0800" stop="20240116003000 +0800" channel="TV1.my">
 		<title lang="en">Berita Tengah Malam</title>
 		<desc lang="en">Memaparkan perkembangan berita dalam dan luar negara.</desc>
@@ -3659,7 +3663,7 @@
 	</programme>
 	<programme start="20240117023000 +0800" stop="20240117033000 +0800" channel="TV3.my">
 		<title lang="en">Ku Akad Kau Dengan Bismillah</title>
-		<desc lang="en">Luth Mikail ternanti-nanti jawapan dari Raisya Hannah yang masih berbelah bahagi memikirkan mengenai hal itu. Dalam pada itu Luth Mikail mendapat kejutan dari Aqilah dan Najia yang mahu menyambut hari ulang tahun kelahirannya.</desc>
+		<desc lang="en">A fateful encounter turns Luth Mikail and Hannah's lives around for good. Unaware of how the incident hurt Hannah, Luth who had fallen in love at first sight is determined to get her out of hiding and seek her forgiveness.</desc>
 		<episode/>
 		<category/>
 		<rating/>
@@ -3715,7 +3719,7 @@
 	</programme>
 	<programme start="20240117080000 +0800" stop="20240117090000 +0800" channel="TV3.my">
 		<title lang="en">Ku Akad Kau Dengan Bismillah</title>
-		<desc lang="en">A fateful encounter turns Luth Mikail and Hannah's lives around for good. Unaware of how the incident hurt Hannah, Luth who had fallen in love at first sight is determined to get her out of hiding and seek her forgiveness.</desc>
+		<desc lang="en">Luth Mikail ternanti-nanti jawapan dari Raisya Hannah yang masih berbelah bahagi memikirkan mengenai hal itu. Dalam pada itu Luth Mikail mendapat kejutan dari Aqilah dan Najia yang mahu menyambut hari ulang tahun kelahirannya.</desc>
 		<episode/>
 		<category/>
 		<rating/>
@@ -4233,7 +4237,7 @@
 	</programme>
 	<programme start="20240116103000 +0800" stop="20240116110000 +0800" channel="DidikTVKPM.my">
 		<title lang="en">Fit &amp; Fab 2018</title>
-		<desc lang="en">A 30 episode series of video content which comprises of complete body workout which are simple to perform, at convenience of home.</desc>
+		<desc lang="en">Program kecergasan bersama Miely dan Ika berkongsi tips-tips dan panduan senaman khas untuk membakar lemak, meningkatkan ketahanan badan, juga senaman berunsur tarian!</desc>
 		<episode/>
 		<category/>
 		<rating/>
@@ -4394,7 +4398,7 @@
 	</programme>
 	<programme start="20240117103000 +0800" stop="20240117110000 +0800" channel="DidikTVKPM.my">
 		<title lang="en">Fit &amp; Fab 2018</title>
-		<desc lang="en">A 30 episode series of video content which comprises of complete body workout which are simple to perform, at convenience of home.</desc>
+		<desc lang="en">Program kecergasan bersama Miely dan Ika berkongsi tips-tips dan panduan senaman khas untuk membakar lemak, meningkatkan ketahanan badan, juga senaman berunsur tarian!</desc>
 		<episode/>
 		<category/>
 		<rating/>
@@ -4478,7 +4482,7 @@
 	</programme>
 	<programme start="20240117183000 +0800" stop="20240117193000 +0800" channel="DidikTVKPM.my">
 		<title lang="en">Kelab &amp; Persatuan 2022 Q3 Q4</title>
-		<desc lang="en">Program ini memberi maklumat tentang objektif dan kandungan aktiviti kokurikulum sekolah.</desc>
+		<desc lang="en">This program provides information on the objectives and content of school extracurricular activities.</desc>
 		<episode/>
 		<category/>
 		<rating/>
@@ -4520,7 +4524,7 @@
 	</programme>
 	<programme start="20240117223000 +0800" stop="20240117230000 +0800" channel="DidikTVKPM.my">
 		<title lang="en">Bina Upaya Guru 2022 Q3 Q4</title>
-		<desc lang="en">Program Pembangunan Guru memberi maklumat tentang perkembangan kerjaya sebagai guru dan juga hala tuju dalam profesion perguruan.</desc>
+		<desc lang="en">The teacher development program provides information on the development of teachers' career paths and also the direction in the teaching profession.</desc>
 		<episode/>
 		<category/>
 		<rating/>
@@ -4534,7 +4538,7 @@
 	</programme>
 	<programme start="20240115234500 +0800" stop="20240116003000 +0800" channel="8TV.my">
 		<title lang="en">The Centimeter Of Love</title>
-		<desc lang="en">Qing Feng yang jatuh hati pada Yu Qing tetapi bersikap acuh tak acuh selamat ini, mula rasa cemas setelah menyedari bahawa Sun Xiao Bai cuba memikat Yu Qing. Adakah Qing Feng akan meluahkan cintanya terhadap Yu Qing?</desc>
+		<desc lang="en">Doctor Xu Qing Feng and senior airline pilot Guan Yu Qing are both highly skilled and highly paid professionals. They fall in love after meeting each other. Can their love and determination overcome the many obstacles placed before them?</desc>
 		<episode/>
 		<category/>
 		<rating/>
@@ -4702,21 +4706,21 @@
 	</programme>
 	<programme start="20240116230000 +0800" stop="20240116234500 +0800" channel="8TV.my">
 		<title lang="en">The Centimeter Of Love</title>
-		<desc lang="en">Yu Qing merancang membeli unit sewa yang sedia ada, agar dapat terus tinggal dekat rumah Qing Feng. Dalam pada itu, Yong Nian dan Yu Qing terkejut mendapati bahawa Zheng Lei menjual kereta Yu Qing untuk membeli cincin.</desc>
+		<desc lang="en">Doctor Xu Qing Feng and senior airline pilot Guan Yu Qing are both highly skilled and highly paid professionals. They fall in love after meeting each other. Can their love and determination overcome the many obstacles placed before them?</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
 	<programme start="20240116234500 +0800" stop="20240117003000 +0800" channel="8TV.my">
 		<title lang="en">The Centimeter Of Love</title>
-		<desc lang="en">Zheng Lei dimarahi bakal ibu bapa mentuanya kerana mengambil dana simpanan Bei Bei untuk membeli kereta. Sementara itu, Qing Feng menentang ibunya secara terbuka dengan mengakui hubungan cintanya dengan Yu Qing.</desc>
+		<desc lang="en">Doctor Xu Qing Feng and senior airline pilot Guan Yu Qing are both highly skilled and highly paid professionals. They fall in love after meeting each other. Can their love and determination overcome the many obstacles placed before them?</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
 	<programme start="20240116234500 +0800" stop="20240117003000 +0800" channel="8TV.my">
 		<title lang="en">The Centimeter Of Love</title>
-		<desc lang="en">Zheng Lei dimarahi bakal ibu bapa mentuanya kerana mengambil dana simpanan Bei Bei untuk membeli kereta. Sementara itu, Qing Feng menentang ibunya secara terbuka dengan mengakui hubungan cintanya dengan Yu Qing.</desc>
+		<desc lang="en">Doctor Xu Qing Feng and senior airline pilot Guan Yu Qing are both highly skilled and highly paid professionals. They fall in love after meeting each other. Can their love and determination overcome the many obstacles placed before them?</desc>
 		<episode/>
 		<category/>
 		<rating/>
@@ -4786,7 +4790,7 @@
 	</programme>
 	<programme start="20240117130000 +0800" stop="20240117140000 +0800" channel="8TV.my">
 		<title lang="en">Big White Duel 2</title>
-		<desc lang="en">Ip Ching makes a debut speech for her bill in LegCo. She has also invited Vice-Secretary-General, W.H.C.O. to rally behind her. Yat-to and Tong Ming launch a counter-attack on Ip Ching. Ip Ching wants to convince Tong Ming to support her.</desc>
+		<desc lang="en">Majlis perundangan mengadakan mesyuarat untuk membincangkan draf Ip Ching bagi mengubah Hospital Marshal Paxton menjadi sebuah Pusat Penyelidikan Perubatan. Yeung mempersoalkan sumber dana pusat itu.</desc>
 		<episode/>
 		<category/>
 		<rating/>
@@ -5045,7 +5049,7 @@
 	</programme>
 	<programme start="20240116173000 +0800" stop="20240116180000 +0800" channel="TV9.my">
 		<title lang="en">Bima S - 3D Animation (2020)</title>
-		<desc lang="en">Bima tersedar dari pengsan selepas kota telah musnah akibat serangan Aster. Professor T dan rakan-rakannya telah ditangkap, Bima perlu membebaskan mereka. Bima kemudian ditangkap oleh Raksasa Octopus.</desc>
+		<desc lang="en">BIMA S, a superhero with his 5 friends travels across the galaxy, fighting monsters and gathering the power of 7 magic matrices in order to stop the evil Infernus.</desc>
 		<episode/>
 		<category/>
 		<rating/>
@@ -5094,7 +5098,7 @@
 	</programme>
 	<programme start="20240116230000 +0800" stop="20240117000000 +0800" channel="TV9.my">
 		<title lang="en">Wanthong</title>
-		<desc lang="en">In the throne hall of the Royal Palace at Ayutthaya, Wan Thong was brought to trial for an affair case which was why people condemned her and called her “Two-Timing Wan Thong.” The whole story happened between Khun Paen and Khun Chang.</desc>
+		<desc lang="en">Pencarian Khun Paen dan Wanthong diteruskan. Dapatkan Chang menemui apa-apa bukti untuk mengesan lokasi Wanthong berada?</desc>
 		<episode/>
 		<category/>
 		<rating/>
@@ -5248,7 +5252,7 @@
 	</programme>
 	<programme start="20240117173000 +0800" stop="20240117180000 +0800" channel="TV9.my">
 		<title lang="en">Bima Satria Garuda - Live Action (2015)</title>
-		<desc lang="en">Mikhail menyedari bahawa dia telah dipengaruhi oleh Rasputin dan dia sebenarnya ialah Reza Bramasakti, adik kandung Ray, namun tak lama kemudian, Rasputin berjaya menghapuskan memorinya.</desc>
+		<desc lang="en">Mikhail had realized that he had been influenced by Rasputin and that he was actually Reza Bramasakti, Ray's younger brother, but this did not take long, Rasputin perfected his brainwashing, so that he completely transformed into "Azazel".</desc>
 		<episode/>
 		<category/>
 		<rating/>
@@ -6918,36 +6922,8 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240116103000 +0800" stop="20240116110000 +0800" channel="AstroAwani.my">
-		<title lang="en">Agenda Awani</title>
-		<desc lang="en">Isu utama harian dan mingguan dikupas dengan mendalam oleh ahli panel.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240116110000 +0800" stop="20240116113000 +0800" channel="AstroAwani.my">
-		<title lang="en">(L) Pantau Belanjawan 2023</title>
-		<desc lang="en">Apa perkembangan selepas Belanjawan 2023 dibentangkan? Bersama pakar ekonomi, penganalisis dan kemaskini tindakan yang dilaksanakan kerajaan perpaduan.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240116113000 +0800" stop="20240116120000 +0800" channel="AstroAwani.my">
-		<title lang="en">AWANI Pagi</title>
-		<desc lang="en">Kupasan lebih mendalam beberapa tajuk berita utama</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240116120000 +0800" stop="20240116120100 +0800" channel="AstroAwani.my">
-		<title lang="en">AWANI Ringkas</title>
-		<desc lang="en">Menyiarkan berita-berita dalam dan luar negara yang baru serta dilaporkan secara ringkas.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240116120100 +0800" stop="20240116123000 +0800" channel="AstroAwani.my">
-		<title lang="en">(L) Buletin Awani</title>
+	<programme start="20240116103000 +0800" stop="20240116123000 +0800" channel="AstroAwani.my">
+		<title lang="en">(L) Buletin Awani Khas</title>
 		<desc lang="en">Laporan perkembangan berita dalam dan luar negara.</desc>
 		<episode/>
 		<category/>
@@ -8305,7 +8281,7 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
 		<rating/>
 	</programme>
 	<programme start="20240116043000 +0800" stop="20240116050000 +0800" channel="AlJazeeraEnglish">
-		<title lang="en">The Stream</title>
+		<title lang="en">The Stream: Fact Finding</title>
 		<desc lang="en"/>
 		<episode/>
 		<category/>
@@ -8375,7 +8351,7 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
 		<rating/>
 	</programme>
 	<programme start="20240116103000 +0800" stop="20240116110000 +0800" channel="AlJazeeraEnglish">
-		<title lang="en">The Stream</title>
+		<title lang="en">The Stream: Fact Finding</title>
 		<desc lang="en"/>
 		<episode/>
 		<category/>
@@ -8522,7 +8498,7 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
 		<rating/>
 	</programme>
 	<programme start="20240116223000 +0800" stop="20240116230000 +0800" channel="AlJazeeraEnglish">
-		<title lang="en">The Stream</title>
+		<title lang="en">The Stream: Fact Finding</title>
 		<desc lang="en"/>
 		<episode/>
 		<category/>
@@ -8725,7 +8701,7 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
 		<rating/>
 	</programme>
 	<programme start="20240117163000 +0800" stop="20240117170000 +0800" channel="AlJazeeraEnglish">
-		<title lang="en">The Stream</title>
+		<title lang="en">The Stream: Fact Finding</title>
 		<desc lang="en"/>
 		<episode/>
 		<category/>
@@ -9468,6 +9444,209 @@ bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipapa
 	</programme>
 	<programme start="20240118003000 +0800" stop="20240118010000 +0800" channel="TRTWorld">
 		<title lang="en">TRT World</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240116020000 +0800" stop="20240116034000 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240116034000 +0800" stop="20240116053000 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240116053000 +0800" stop="20240116070000 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240116070000 +0800" stop="20240116084000 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240116084000 +0800" stop="20240116102000 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240116102000 +0800" stop="20240116115000 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240116115000 +0800" stop="20240116134000 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240116134000 +0800" stop="20240116151500 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240116151500 +0800" stop="20240116172000 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240116172000 +0800" stop="20240116190000 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240116190000 +0800" stop="20240116202500 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240116202500 +0800" stop="20240116220000 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240116220000 +0800" stop="20240116234500 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240116234500 +0800" stop="20240117011000 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240117011000 +0800" stop="20240117024500 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240117024500 +0800" stop="20240117041500 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240117041500 +0800" stop="20240117054500 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240117054500 +0800" stop="20240117070500 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240117070500 +0800" stop="20240117085000 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240117085000 +0800" stop="20240117102500 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240117102500 +0800" stop="20240117120000 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240117120000 +0800" stop="20240117132000 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240117132000 +0800" stop="20240117145500 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240117145500 +0800" stop="20240117164000 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240117164000 +0800" stop="20240117183000 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240117183000 +0800" stop="20240117202000 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240117202000 +0800" stop="20240117220000 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240117220000 +0800" stop="20240117234500 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240117234500 +0800" stop="20240118013500 +0800" channel="RT.ru">
+		<title lang="en">Rt English</title>
 		<desc lang="en"/>
 		<episode/>
 		<category/>
